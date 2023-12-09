@@ -1,6 +1,6 @@
-# Data-Science-Personal-Projects
 
-# GitHub Spray
+
+# Data-Science-Personal-Projects
 [![npm](https://img.shields.io/npm/v/github-spray.svg?style=flat-square)](https://www.npmjs.com/package/github-spray)
 [![license](https://img.shields.io/github/license/annihil/github-spray.svg?style=flat-square)]()
 
